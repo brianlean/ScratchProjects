@@ -1,5 +1,6 @@
-<?php
 
+<?php
+//comment for test of github
 $page_id = get_queried_object_id();
 
 global $NHP_Options;
