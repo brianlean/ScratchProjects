@@ -2,6 +2,7 @@
 <?php
 //comment for test of github
 // Second comment for test of github
+//Third test
 $page_id = get_queried_object_id();
 
 global $NHP_Options;
